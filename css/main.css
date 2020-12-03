@@ -1,3 +1,9 @@
 body {
-    background-color: green;
+    background-color: grey;
+    display: flex;
+}
+
+#super-id {
+    border: 1px aqua solid;
+    background-color: burlywood;
 }
