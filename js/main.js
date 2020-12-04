@@ -24,4 +24,6 @@ button2.addEventListener("click", function () {
     // button2.innerText = color;
 });
 
+const test = "one" + (5+1)
+
 
