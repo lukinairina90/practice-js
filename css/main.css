@@ -7,3 +7,10 @@ body {
     border: 1px aqua solid;
     background-color: burlywood;
 }
+
+#changeColor {
+    width: 200px;
+    height: 200px;
+    color: aqua;
+    border: 10px dotted green;
+}
